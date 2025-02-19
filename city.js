@@ -1,7 +1,8 @@
 let city = "Hanoi"
+city = "Hanoooiiii"
 console.log(city)
 
 const country = "Vietnam"
-const country = "wtf"
+// country = "wtf"
 console.log(country)
 
